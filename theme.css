@@ -1,0 +1,14 @@
+body {background-color: lightblue; background-image:url("http:bit.ly/treeforasia") }
+
+h1 { colour: navy; margin-left: 20px;}
+
+.flavours {background-color:green; color: white; font-size: 40px; margin: 20px 0 20px 0; padding:20px;}
+	/*<!-- "the "." in front refer to the class that you classified" -->
+	<!-- The margin is allocated as "top" "right" "bottom" "left" AKA clockwise -->
+	<!-- The padding is the area around which the words will occupy -->*/
+
+#favourite { width: 300px; padding: 25px; border: 25px orange; margin: 25px}
+	/*<!-- "the "#" in front refer to the id that you classified" -->
+	The spaces surrounding the text is padding -> Border -> margin
+*/
+.taste { color: purple; background-color: yellow }
